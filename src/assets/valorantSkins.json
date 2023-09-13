@@ -1,0 +1,1628 @@
+[
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic CrimsonOps",
+    "img": "Classic_CrimsonOps_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Cyberpunk2 Blue",
+    "img": "Classic_Cyberpunk2_Blue_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Cyberpunk2 Gold",
+    "img": "Classic_Cyberpunk2_Gold_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Cyberpunk2 Red",
+    "img": "Classic_Cyberpunk2_Red_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Cyberpunk2",
+    "img": "Classic_Cyberpunk2_Standard_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Electroflux3",
+    "img": "Classic_Electroflux3_Standard_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Electroflux3 v1",
+    "img": "Classic_Electroflux3_v1_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Electroflux3 v2",
+    "img": "Classic_Electroflux3_v2_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Electroflux3 v3",
+    "img": "Classic_Electroflux3_v3_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Elven",
+    "img": "Classic_Elven_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Fallen",
+    "img": "Classic_Fallen_Standard_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Fallen v1",
+    "img": "Classic_Fallen_v1_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Iridescence2",
+    "img": "Classic_Iridescence2_Standard_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Iridescence2 v1",
+    "img": "Classic_Iridescence2_v1_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Iridescence2 v2",
+    "img": "Classic_Iridescence2_v2_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Iridescence2 v3",
+    "img": "Classic_Iridescence2_v3_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Lightning",
+    "img": "Classic_Lightning_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Magic Spline Blue",
+    "img": "Classic_Magic_Spline_Blue_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Magic Spline Green",
+    "img": "Classic_Magic_Spline_Green_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Magic Spline Red",
+    "img": "Classic_Magic_Spline_Red_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Magic Spline",
+    "img": "Classic_Magic_Spline_Standard_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Raygun Black",
+    "img": "Classic_Raygun_Black_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Raygun Chrome",
+    "img": "Classic_Raygun_Chrome_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Raygun RWB",
+    "img": "Classic_Raygun_RWB_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Raygun",
+    "img": "Classic_Raygun_Standard_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Sakura",
+    "img": "Classic_Sakura_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Sportscar",
+    "img": "Classic_Sportscar_Standard_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Sportscar v1",
+    "img": "Classic_Sportscar_v1_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Sportscar v2",
+    "img": "Classic_Sportscar_v2_SideView.png"
+  },
+  {
+    "type": "Classic",
+    "price": 20,
+    "name": "Classic Sportscar v3",
+    "img": "Classic_Sportscar_v3_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Cosmos Phantom",
+    "img": "Cosmos_Phantom_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Circle",
+    "img": "Frenzy_Circle_Standard_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Circle v1",
+    "img": "Frenzy_Circle_v1_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Circle v2",
+    "img": "Frenzy_Circle_v2_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Circle v3",
+    "img": "Frenzy_Circle_v3_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Dragon Frenzy Blue",
+    "img": "Frenzy_Dragon_Frenzy_Blue_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Dragon Frenzy Dark",
+    "img": "Frenzy_Dragon_Frenzy_Dark_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Dragon Frenzy Red",
+    "img": "Frenzy_Dragon_Frenzy_Red_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Dragon",
+    "img": "Frenzy_Dragon_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Guide",
+    "img": "Frenzy_Guide_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Horizon",
+    "img": "Frenzy_Horizon_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy HypeBeast2 Gold",
+    "img": "Frenzy_HypeBeast2_Gold_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy HypeBeast2 Green",
+    "img": "Frenzy_HypeBeast2_Green_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy HypeBeast2 Orange",
+    "img": "Frenzy_HypeBeast2_Orange_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy HypeBeast2",
+    "img": "Frenzy_HypeBeast2_Standard_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Lightwave",
+    "img": "Frenzy_Lightwave_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Lightwave v1",
+    "img": "Frenzy_Lightwave_v1_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Lightwave v2",
+    "img": "Frenzy_Lightwave_v2_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Lightwave v3",
+    "img": "Frenzy_Lightwave_v3_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Lunar",
+    "img": "Frenzy_Lunar_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy Rainbow",
+    "img": "Frenzy_Rainbow_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy URF",
+    "img": "Frenzy_URF_Standard_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy URF v1",
+    "img": "Frenzy_URF_v1_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy URF v2",
+    "img": "Frenzy_URF_v2_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Frenzy URF v3",
+    "img": "Frenzy_URF_v3_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Anime",
+    "img": "Ghost_Anime_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Historical",
+    "img": "Ghost_Historical_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Industrial",
+    "img": "Ghost_Industrial_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Jade",
+    "img": "Ghost_Jade_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost King",
+    "img": "Ghost_King_Standard_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost King v1",
+    "img": "Ghost_King_v1_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost King v2",
+    "img": "Ghost_King_v2_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost King v3",
+    "img": "Ghost_King_v3_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Magepunk Lv1",
+    "img": "Ghost_Magepunk_SideViewLv1.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Magepunk",
+    "img": "Ghost_Magepunk_Standard_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Magepunk v1",
+    "img": "Ghost_Magepunk_v1_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Magepunk v2",
+    "img": "Ghost_Magepunk_v2_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Magepunk v3",
+    "img": "Ghost_Magepunk_v3_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Puzzle",
+    "img": "Ghost_Puzzle_Standard_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Puzzle v1",
+    "img": "Ghost_Puzzle_v1_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Puzzle v2",
+    "img": "Ghost_Puzzle_v2_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Puzzle v3",
+    "img": "Ghost_Puzzle_v3_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Rift",
+    "img": "Ghost_Rift_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost SovWorld",
+    "img": "Ghost_SovWorld_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost SpecOps",
+    "img": "Ghost_SpecOps_Standard_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost SpecOps v1",
+    "img": "Ghost_SpecOps_v1_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost SpecOps v2",
+    "img": "Ghost_SpecOps_v2_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost SpecOps v3",
+    "img": "Ghost_SpecOps_v3_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Speedboat",
+    "img": "Ghost_Speedboat_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost UnderTheSea",
+    "img": "Ghost_UnderTheSea_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Unstoppable",
+    "img": "Ghost_Unstoppable_Standard_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Unstoppable v1",
+    "img": "Ghost_Unstoppable_v1_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Unstoppable v2",
+    "img": "Ghost_Unstoppable_v2_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Unstoppable v3",
+    "img": "Ghost_Unstoppable_v3_SideView.png"
+  },
+  {
+    "type": "Ghost",
+    "price": 40,
+    "name": "Ghost Winter",
+    "img": "Ghost_Winter_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Glitchpop Frenzy Level 5 Variant 1 Blue Level 4",
+    "img": "Glitchpop_Frenzy_Level_5_Variant_1_Blue__Level_4_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Glitchpop Frenzy Level 6 Variant 2 Red Level 4",
+    "img": "Glitchpop_Frenzy_Level_6_Variant_2_Red__Level_4_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Glitchpop Frenzy Level 7 Variant 3 Gold Level 4",
+    "img": "Glitchpop_Frenzy_Level_7_Variant_3_Gold__Level_4_SideView.png"
+  },
+  {
+    "type": "Frenzy",
+    "price": 30,
+    "name": "Glitchpop Frenzy",
+    "img": "Glitchpop_Frenzy_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Glitchpop Odin Level 4",
+    "img": "Glitchpop_Odin_Level_4_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Glitchpop Odin Level 5 Variant 1 Blue Level 4",
+    "img": "Glitchpop_Odin_Level_5_Variant_1_Blue__Level_4_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Glitchpop Odin Level 6 Variant 2 Red Level 4",
+    "img": "Glitchpop_Odin_Level_6_Variant_2_Red__Level_4_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Glitchpop Odin Level 7 Variant 3 Gold Level 4",
+    "img": "Glitchpop_Odin_Level_7_Variant_3_Gold__Level_4_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin HypeBeast2 Gold",
+    "img": "Odin_HypeBeast2_Gold_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin HypeBeast2 Green",
+    "img": "Odin_HypeBeast2_Green_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin HypeBeast2 Orange",
+    "img": "Odin_HypeBeast2_Orange_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin HypeBeast2",
+    "img": "Odin_HypeBeast2_Standard_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Iridescence2",
+    "img": "Odin_Iridescence2_Standard_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Iridescence2 v1",
+    "img": "Odin_Iridescence2_v1_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Iridescence2 v2",
+    "img": "Odin_Iridescence2_v2_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Iridescence2 v3",
+    "img": "Odin_Iridescence2_v3_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Lightning",
+    "img": "Odin_Lightning_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Lightwave",
+    "img": "Odin_Lightwave_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Lightwave v1",
+    "img": "Odin_Lightwave_v1_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Lightwave v2",
+    "img": "Odin_Lightwave_v2_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Lightwave v3",
+    "img": "Odin_Lightwave_v3_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Rainbow",
+    "img": "Odin_Rainbow_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin StreetArt",
+    "img": "Odin_StreetArt_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Urf",
+    "img": "Odin_Urf_Standard_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Urf v1",
+    "img": "Odin_Urf_v1_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Urf v2",
+    "img": "Odin_Urf_v2_SideView.png"
+  },
+  {
+    "type": "Odin",
+    "price": 65,
+    "name": "Odin Urf v3",
+    "img": "Odin_Urf_v3_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Circle",
+    "img": "Operator_Circle_Standard_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Circle v1",
+    "img": "Operator_Circle_v1_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Circle v2",
+    "img": "Operator_Circle_v2_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Circle v3",
+    "img": "Operator_Circle_v3_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator CrimsonOps",
+    "img": "Operator_CrimsonOps_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Cyberpunk2 Blue",
+    "img": "Operator_Cyberpunk2_Blue_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Cyberpunk2 Gold",
+    "img": "Operator_Cyberpunk2_Gold_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Cyberpunk2 Red",
+    "img": "Operator_Cyberpunk2_Red_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Cyberpunk2",
+    "img": "Operator_Cyberpunk2_Standard_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Dragon Blue blue",
+    "img": "Operator_Dragon_Blue_SideViewblue.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Dragon Dark dark",
+    "img": "Operator_Dragon_Dark_SideViewdark.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Dragon Red red",
+    "img": "Operator_Dragon_Red_SideViewred.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Dragon",
+    "img": "Operator_Dragon_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Fallen",
+    "img": "Operator_Fallen_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Fallen v1",
+    "img": "Operator_Fallen_v1_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Historical",
+    "img": "Operator_Historical_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Kingdom2",
+    "img": "Operator_Kingdom2_DisplayIcon.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Magic Spline Blue",
+    "img": "Operator_Magic_Spline_Blue_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Magic Spline Green",
+    "img": "Operator_Magic_Spline_Green_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Magic Spline Red",
+    "img": "Operator_Magic_Spline_Red_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Magic Spline",
+    "img": "Operator_Magic_Spline_Standard_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Minima",
+    "img": "Operator_Minima_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator MysticForest",
+    "img": "Operator_MysticForest_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Oblivion",
+    "img": "Operator_Oblivion_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Raygun Black",
+    "img": "Operator_Raygun_Black_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Raygun Chrome",
+    "img": "Operator_Raygun_Chrome_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Raygun RWB",
+    "img": "Operator_Raygun_RWB_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Raygun",
+    "img": "Operator_Raygun_Standard_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator SOL",
+    "img": "Operator_SOL_Standard_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator SOL v1",
+    "img": "Operator_SOL_v1_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator SOL v2",
+    "img": "Operator_SOL_v2_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator SOL v3",
+    "img": "Operator_SOL_v3_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator SoulStealer Black",
+    "img": "Operator_SoulStealer_Black_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator SoulStealer Red",
+    "img": "Operator_SoulStealer_Red_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator SoulStealer",
+    "img": "Operator_SoulStealer_Standard_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator SoulStealer White",
+    "img": "Operator_SoulStealer_White_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator SovWorld",
+    "img": "Operator_SovWorld_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Speedboat",
+    "img": "Operator_Speedboat_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator StreetArt",
+    "img": "Operator_StreetArt_SideView.png"
+  },
+  {
+    "type": "Operator",
+    "price": 80,
+    "name": "Operator Triangles Operator",
+    "img": "Operator_Triangles_Operator_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Anime",
+    "img": "Phantom_Anime_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Cyberpunk2 Blue",
+    "img": "Phantom_Cyberpunk2_Blue_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Cyberpunk2 Gold",
+    "img": "Phantom_Cyberpunk2_Gold_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Cyberpunk2 Red",
+    "img": "Phantom_Cyberpunk2_Red_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Cyberpunk2",
+    "img": "Phantom_Cyberpunk2_Standard_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Edge Blue",
+    "img": "Phantom_Edge_Blue_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Edge Purple",
+    "img": "Phantom_Edge_Purple_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Edge Red",
+    "img": "Phantom_Edge_Red_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Edge",
+    "img": "Phantom_Edge_Standard_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom HypeBeast2 Gold",
+    "img": "Phantom_HypeBeast2_Gold_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom HypeBeast2 Green",
+    "img": "Phantom_HypeBeast2_Green_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom HypeBeast2 Orange",
+    "img": "Phantom_HypeBeast2_Orange_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom HypeBeast2",
+    "img": "Phantom_HypeBeast2_Standard_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Jade",
+    "img": "Phantom_Jade_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom King",
+    "img": "Phantom_King_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom King v1",
+    "img": "Phantom_King_v1_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom King v2",
+    "img": "Phantom_King_v2_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom King v3",
+    "img": "Phantom_King_v3_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Lightning",
+    "img": "Phantom_Lightning_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Lightwave",
+    "img": "Phantom_Lightwave_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Lightwave v1",
+    "img": "Phantom_Lightwave_v1_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Lightwave v2",
+    "img": "Phantom_Lightwave_v2_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Lightwave v3",
+    "img": "Phantom_Lightwave_v3_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Lunar",
+    "img": "Phantom_Lunar_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Magic Spline Blue",
+    "img": "Phantom_Magic_Spline_Blue_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Magic Spline Green",
+    "img": "Phantom_Magic_Spline_Green_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Magic Spline Red",
+    "img": "Phantom_Magic_Spline_Red_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Magic Spline",
+    "img": "Phantom_Magic_Spline_Standard_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Minima",
+    "img": "Phantom_Minima_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom MysticForest",
+    "img": "Phantom_MysticForest_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Oblivion",
+    "img": "Phantom_Oblivion_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Oni Phantom Oni Phantom Level 5 Variant 1 Black",
+    "img": "Phantom_Oni_Phantom_Oni_Phantom_Level_5_Variant_1_Black__SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Oni Phantom Oni Phantom Level 6 Variant 2 Green",
+    "img": "Phantom_Oni_Phantom_Oni_Phantom_Level_6_Variant_2_Green__SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Oni Phantom Oni Phantom Level 7 Variant 3 White",
+    "img": "Phantom_Oni_Phantom_Oni_Phantom_Level_7_Variant_3_White__SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Oni Phantom Oni Phantom",
+    "img": "Phantom_Oni_Phantom_Oni_Phantom_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom SpecOps",
+    "img": "Phantom_SpecOps_Standard_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom SpecOps v1",
+    "img": "Phantom_SpecOps_v1_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom SpecOps v2",
+    "img": "Phantom_SpecOps_v2_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom SpecOps v3",
+    "img": "Phantom_SpecOps_v3_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Sportscar",
+    "img": "Phantom_Sportscar_Standard_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Sportscar v1",
+    "img": "Phantom_Sportscar_v1_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Sportscar v2",
+    "img": "Phantom_Sportscar_v2_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Sportscar v3",
+    "img": "Phantom_Sportscar_v3_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom URF",
+    "img": "Phantom_URF_Standard_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom URF v1",
+    "img": "Phantom_URF_v1_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom URF v2",
+    "img": "Phantom_URF_v2_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom URF v3",
+    "img": "Phantom_URF_v3_SideView.png"
+  },
+  {
+    "type": "Phantom",
+    "price": 70,
+    "name": "Phantom Winter",
+    "img": "Phantom_Winter_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Cosmos",
+    "img": "Sheriff_Cosmos_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Edge Blue",
+    "img": "Sheriff_Edge_Blue_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Edge Purple",
+    "img": "Sheriff_Edge_Purple_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Edge Red",
+    "img": "Sheriff_Edge_Red_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Edge",
+    "img": "Sheriff_Edge_Standard_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Electroflux3",
+    "img": "Sheriff_Electroflux3_Standard_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Electroflux3 v1",
+    "img": "Sheriff_Electroflux3_v1_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Electroflux3 v2",
+    "img": "Sheriff_Electroflux3_v2_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Electroflux3 v3",
+    "img": "Sheriff_Electroflux3_v3_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Iridescence3",
+    "img": "Sheriff_Iridescence3_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Kingdom2",
+    "img": "Sheriff_Kingdom2_DisplayIcon.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Lightwave",
+    "img": "Sheriff_Lightwave_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Lightwave v1",
+    "img": "Sheriff_Lightwave_v1_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Lightwave v2",
+    "img": "Sheriff_Lightwave_v2_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Lightwave v3",
+    "img": "Sheriff_Lightwave_v3_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Minima",
+    "img": "Sheriff_Minima_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff MysticForest",
+    "img": "Sheriff_MysticForest_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Oblivion",
+    "img": "Sheriff_Oblivion_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Polyanimals",
+    "img": "Sheriff_Polyanimals_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Polyfrog",
+    "img": "Sheriff_Polyfrog_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Sakura",
+    "img": "Sheriff_Sakura_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff SOL",
+    "img": "Sheriff_SOL_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff SOL v1",
+    "img": "Sheriff_SOL_v1_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff SOL v2",
+    "img": "Sheriff_SOL_v2_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff SOL v3",
+    "img": "Sheriff_SOL_v3_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff SoulStealer Black",
+    "img": "Sheriff_SoulStealer_Black_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff SoulStealer Red",
+    "img": "Sheriff_SoulStealer_Red_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff SoulStealer",
+    "img": "Sheriff_SoulStealer_Standard_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff SoulStealer White",
+    "img": "Sheriff_SoulStealer_White_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Triangles Sheriff",
+    "img": "Sheriff_Triangles_Sheriff_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Wasteland",
+    "img": "Sheriff_Wasteland_SideView.png"
+  },
+  {
+    "type": "Sheriff",
+    "price": 70,
+    "name": "Sheriff Yoru",
+    "img": "Sheriff_Yoru_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Circle",
+    "img": "Vandal_Circle_Standard_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Circle v1",
+    "img": "Vandal_Circle_v1_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Circle v2",
+    "img": "Vandal_Circle_v2_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Circle v3",
+    "img": "Vandal_Circle_v3_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Cyberpunk2 Blue",
+    "img": "Vandal_Cyberpunk2_Blue_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Cyberpunk2 Gold",
+    "img": "Vandal_Cyberpunk2_Gold_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Cyberpunk2 Red",
+    "img": "Vandal_Cyberpunk2_Red_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Cyberpunk2",
+    "img": "Vandal_Cyberpunk2_Standard_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Dragon Blue",
+    "img": "Vandal_Dragon_Blue_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Dragon Dark",
+    "img": "Vandal_Dragon_Dark_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Dragon Red",
+    "img": "Vandal_Dragon_Red_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Dragon",
+    "img": "Vandal_Dragon_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Exo",
+    "img": "Vandal_Exo_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Fallen",
+    "img": "Vandal_Fallen_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Fallen v1",
+    "img": "Vandal_Fallen_v1_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Gothic",
+    "img": "Vandal_Gothic_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Horizon",
+    "img": "Vandal_Horizon_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Iridescence3",
+    "img": "Vandal_Iridescence3_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Kingdom2",
+    "img": "Vandal_Kingdom2_DisplayIcon.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal MysticForest",
+    "img": "Vandal_MysticForest_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Rainbow",
+    "img": "Vandal_Rainbow_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Sakura",
+    "img": "Vandal_Sakura_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal SOL",
+    "img": "Vandal_SOL_Standard_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal SOL v1",
+    "img": "Vandal_SOL_v1_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal SOL v2",
+    "img": "Vandal_SOL_v2_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal SOL v3",
+    "img": "Vandal_SOL_v3_SideView_DisplayIcon.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Soulstealer Black",
+    "img": "Vandal_Soulstealer_Black_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Soulstealer Red",
+    "img": "Vandal_Soulstealer_Red_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Soulstealer",
+    "img": "Vandal_Soulstealer_Standard_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Soulstealer White",
+    "img": "Vandal_Soulstealer_White_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal SovWorld",
+    "img": "Vandal_SovWorld_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Speedboat",
+    "img": "Vandal_Speedboat_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal UnderTheSea",
+    "img": "Vandal_UnderTheSea_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Unstoppable",
+    "img": "Vandal_Unstoppable_Standard_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Unstoppable v1",
+    "img": "Vandal_Unstoppable_v1_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Unstoppable v2",
+    "img": "Vandal_Unstoppable_v2_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Unstoppable v3",
+    "img": "Vandal_Unstoppable_v3_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Wasteland",
+    "img": "Vandal_Wasteland_SideView.png"
+  },
+  {
+    "type": "Vandal",
+    "price": 70,
+    "name": "Vandal Winter",
+    "img": "Vandal_Winter_SideView.png"
+  }
+]

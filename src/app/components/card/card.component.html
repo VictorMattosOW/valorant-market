@@ -1,0 +1,15 @@
+<div class="flex flex-col bg-white items-center gap-4 h-80">
+  <div [class]="'flex justify-center w-full p-8 color h-[200px] ' + color">
+    <img [src]="imgPath + img" class="object-contain">
+  </div>
+  <h1>{{name}}</h1>
+  <div class="flex gap-4 items-center justify-center">
+    <span>{{formatCurrency.format(price)}}</span>
+    <button 
+      class="p-2 bg-red-500 rounded-lg text-sm hover:bg-red-400"
+      (click)="handleBuyWeapon.emit()"
+    >
+      comprar
+    </button>
+  </div>
+</div>

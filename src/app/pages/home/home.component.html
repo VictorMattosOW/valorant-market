@@ -1,0 +1,15 @@
+<div class="grid grid-cols-4 justify-items-center gap-8 w-full">
+  <ng-container *ngFor="let weapon of weapons">
+    <app-card
+      class="w-full"
+      [name]="weapon.name"
+      [price]="weapon.price"
+      [img]="weapon.img"
+      color="bg-gray-700"
+      (handleBuyWeapon)="addWeaponAtList(weapon)"
+    >
+    </app-card>
+
+  </ng-container>
+
+</div>
