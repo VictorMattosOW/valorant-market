@@ -7,20 +7,25 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { CardComponent } from './components/card/card.component';
 import { HomeComponent } from './pages/home/home.component';
-import { FormsModule } from '@angular/forms'
+import { FormsModule } from '@angular/forms';
+import { CheckoutComponent } from './pages/checkout/checkout.component';
+import { FormatCurrencyPipe } from './utils/format-currency.pipe'
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     CardComponent,
-    HomeComponent
+    HomeComponent,
+    CheckoutComponent,
+    FormatCurrencyPipe
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    FormsModule
+    FormsModule,
+    // FormatCurrencyPipe
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -3,13 +3,22 @@
     <img [src]="imgPath + img" class="object-contain">
   </div>
   <h1>{{name}}</h1>
-  <div class="flex gap-4 items-center justify-center">
-    <span>{{formatCurrency.format(price)}}</span>
+  <div class="flex gap-4 items-center justify-center" *ngIf="!selected">
+    <span>{{  price | formatCurrency }}</span>
     <button 
       class="p-2 bg-red-500 rounded-lg text-sm hover:bg-red-400"
-      (click)="handleBuyWeapon.emit()"
+      (click)="handleAddWeaponAtCart.emit()"
     >
       comprar
+    </button>
+  </div>
+  <div class="flex gap-4 items-center justify-center" *ngIf="selected">
+    <!-- <span>{{formatCurrency.format(price)}}</span> -->
+    <button 
+      class="p-2 bg-green-400 rounded-lg text-sm hover:bg-green-500"
+      (click)="handleRemoveWeaponAtCart.emit()"
+    >
+      Excluir ?
     </button>
   </div>
 </div>

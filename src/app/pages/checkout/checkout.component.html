@@ -1,0 +1,32 @@
+<div class="flex flex-col gap-8">
+  <a [routerLink]="['/']" class="underline underline-offset-4"><- voltar</a>
+  <div class="w-full h-20 grid grid-cols-[1fr,30%] gap-8">
+
+    <div class="w-full bg-white p-8 divide-y">
+      <!-- card -->
+      <div *ngFor="let item of cart" >
+        <div class="flex justify-between my-4">
+          <img [src]="imgPath + item.img" alt="" height="100" width="100" class="object-contain">
+          <div class="text-end my-4">
+            <h3>{{item.name}}</h3>
+            <span>{{  item.price | formatCurrency }}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- form -->
+    <div class="bg-white w-full h-[300px] p-8 flex flex-col">
+      <div *ngFor="let item of cart" class="text-end">
+        {{  item.price | formatCurrency }}
+      </div>
+      <span class="text-end">TOTAL: {{  total | formatCurrency }}</span>
+      <form action="">
+        <span>Riot ID:</span>
+        <div class="flex gap-4 items-center justify-center">
+          <input type="text" class="w-full outline p-2 outline-red-300 outline-1 rounded-md mt-3">
+          <button class="p-2 mt-3 bg-red-500 rounded-lg hover:bg-red-400">comprar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

@@ -10,11 +10,10 @@ export class CardComponent {
   @Input() price: number = 0
   @Input() img: string = ''
   @Input() color: string = ''
-  @Output() handleBuyWeapon = new EventEmitter<void>();
+  @Input() selected: boolean = false;
+  @Output() handleAddWeaponAtCart = new EventEmitter<void>();
+  @Output() handleRemoveWeaponAtCart = new EventEmitter<void>();
+
   
   imgPath = '../../../assets/images/';
-  formatCurrency = new Intl.NumberFormat('pt-BR', {
-    style: 'currency',
-    currency: 'BRL'
-  })
 }

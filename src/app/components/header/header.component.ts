@@ -14,7 +14,7 @@ export class HeaderComponent implements OnInit {
 
 
   ngOnInit(): void {
-    this.weaponsService.getWeaponsObservable().subscribe({
+    this.weaponsService.getWeaponsAtCartObservable().subscribe({
       next: (weapons: Weapons[]) => {
         this.cart = weapons.length;
       }

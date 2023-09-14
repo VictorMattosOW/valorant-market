@@ -6,7 +6,9 @@
       [price]="weapon.price"
       [img]="weapon.img"
       color="bg-gray-700"
-      (handleBuyWeapon)="addWeaponAtList(weapon)"
+      [selected]="weapon.selected"
+      (handleAddWeaponAtCart)="addWeaponAtList(weapon)"
+      (handleRemoveWeaponAtCart)="removeWeaponAtList(weapon)"
     >
     </app-card>
 

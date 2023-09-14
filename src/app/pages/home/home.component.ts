@@ -16,6 +16,24 @@ export class HomeComponent implements OnInit{
   }
 
   ngOnInit(): void {
+    this.getWeaponsAddedAtCart()
+  }
+
+  getWeaponsAddedAtCart() {
+    this.weaponsService.getWeaponsObservable().subscribe({
+      next: (result) => {
+        result.length === 0 ? this.getWeapons() : this.weapons = result
+      }
+    })
+
+    this.weaponsService.getWeaponsAtCartObservable().subscribe({
+      next: (cart) => {
+        this.addAtCard = cart;
+      }
+    })
+  }
+
+  getWeapons() {
     this.weaponsService.getAllWeapons().subscribe({
       next: (result) => {
         this.weapons = result
@@ -24,8 +42,15 @@ export class HomeComponent implements OnInit{
   }
 
   addWeaponAtList(item: Weapons) {
-    console.log(item)
+    this.weapons.map(w => w === item ? w.selected = true : w)
     this.addAtCard.push(item);
-    this.weaponsService.setWeapons(this.addAtCard);
+    this.weaponsService.setWeapons(this.weapons);
+    this.weaponsService.setWeaponsAtCart(this.addAtCard);
+  }
+
+  removeWeaponAtList(itemToDelete: Weapons) {
+    this.weapons.map(w => w === itemToDelete ? w.selected = false : w)
+    this.addAtCard = this.addAtCard.filter(w => w !== itemToDelete)
+    this.weaponsService.setWeaponsAtCart(this.addAtCard);
   }
 }
